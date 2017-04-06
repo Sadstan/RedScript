@@ -14,7 +14,7 @@ como usar: esteja utilizando python 2.7
 
 # Greetz:
 
-Júlia Silva, Felipe, Wellington Henrique, Luis Henrique, Anna Clara, Diogo Fernando <br/> < 3
+Júlia Silva, Felipe, Wellington Henrique, Luis Henrique, Anna Clara, Diogo Fernando, Mathias <br/> < 3
 
 # Codado por
 
